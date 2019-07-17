@@ -2,4 +2,4 @@ micronaut:
   application:
     name: goodreads
   server:
-    port: 8888
+    port: -1
